@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/davis/RouteTestkit/web/target/scala-2.12/web_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/africasTalking[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davis/RouteTestkit/web/target/scala-2.12/classes/com/africasTalking[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/africasTalking/RouteTests/WebServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davis/RouteTestkit/web/target/scala-2.12/classes/com/africasTalking/RouteTests/WebServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/africasTalking/RouteTests[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davis/RouteTestkit/web/target/scala-2.12/classes/com/africasTalking/RouteTests[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davis/RouteTestkit/web/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/africasTalking/RouteTests/UssdClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davis/RouteTestkit/web/target/scala-2.12/classes/com/africasTalking/RouteTests/UssdClient.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/africasTalking/RouteTests/WebServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/davis/RouteTestkit/web/target/scala-2.12/classes/com/africasTalking/RouteTests/WebServer.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

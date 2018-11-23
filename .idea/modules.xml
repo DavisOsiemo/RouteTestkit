@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/routetestkit.iml" filepath="$PROJECT_DIR$/.idea/modules/routetestkit.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/routetestkit-build.iml" filepath="$PROJECT_DIR$/.idea/modules/routetestkit-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RouteTestkit.iml" filepath="$PROJECT_DIR$/.idea/modules/RouteTestkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RouteTestkit-build.iml" filepath="$PROJECT_DIR$/.idea/modules/RouteTestkit-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core.iml" filepath="$PROJECT_DIR$/.idea/modules/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core-build.iml" filepath="$PROJECT_DIR$/.idea/modules/core-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web.iml" filepath="$PROJECT_DIR$/.idea/modules/web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-build.iml" filepath="$PROJECT_DIR$/.idea/modules/web-build.iml" />
     </modules>
   </component>
 </project>
